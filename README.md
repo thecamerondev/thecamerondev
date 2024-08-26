@@ -3,8 +3,7 @@
 <hr/>
 
 <img align="right" src="https://64.media.tumblr.com/f3605f059fddff4d608152d00055b9d5/tumblr_oe2fe1mihd1vdlvpao1_400.gif" alt="cat kis"/>
-<h3>⁉️ what do you call a full stack web developer, lego game scripter, and entrepreneur?</h3>
+<h3>⁉️ what do you call a designer, software engineer, and entrepreneur?</h3>
 
-
-i make cool stuff. i work primarily in [angular](https://angular.dev) and [nestjs](https://nestjs.com). i guess nextjs is watching from the sidelines too. currently living off bug bounty.
+i build cool stuff with TypeScript, using Angular and NestJS. i also work with Next.js, various React frameworks, and Electron. Ruby on Rails is hanging out in the background too.
 
