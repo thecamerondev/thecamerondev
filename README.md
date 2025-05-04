@@ -1,5 +1,5 @@
 <h1>👋 i'm cameron, how are you?</h1>
-<img src="https://skillicons.dev/icons?i=angular,tailwind,nestjs,prisma,cloudflare,docker,express,ts,py,lua,mongodb,mysql,nextjs,nodejs,react,redis,svelte,workers,java,go&perline=32"/>
+<img src="https://skillicons.dev/icons?i=angular,tailwind,nestjs,prisma,cloudflare,docker,express,ts,py,lua,mongodb,mysql,nextjs,nodejs,react,redis,svelte,workers,ruby,c#,c++,cjava,go&perline=36"/>
 <hr/>
 
 <img align="right" src="https://64.media.tumblr.com/f3605f059fddff4d608152d00055b9d5/tumblr_oe2fe1mihd1vdlvpao1_400.gif" alt="cat kis"/>
